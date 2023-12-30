@@ -1,17 +1,24 @@
 # Data-Analysis-Web-Scraper-Project
-## Proyecto de Web Scraping para Información Meteorológica
+## Weather Information Web Scraping Project
 
-Este proyecto se centra en realizar *web scraping* de la página web [World Weather](https://world-weather.info/) para obtener información actualizada sobre la temperatura, la sensación térmica y la hora de una ubicación específica. La información recopilada se almacena en un archivo CSV para su posterior análisis de datos.
+This project focuses on performing web scraping of the [World Weather](https://world-weather.info/) website to retrieve updated information about temperature, real feel, and time for a specific location. The collected data is stored in a CSV file for subsequent data analysis.
 
-## Objetivo del Proyecto
+## Project Objective
 
-El objetivo principal es automatizar la recopilación de datos meteorológicos de la página web mencionada y almacenarlos en un formato estructurado para su análisis posterior. Además, se ha implementado una función para programar la obtención de información cada 24 horas, lo que permite mantener actualizada la base de datos.
+The primary goal is to automate the collection of meteorological data from the mentioned website and store it in a structured format for later analysis. Additionally, a function has been implemented to schedule data retrieval every 24 hours, ensuring the database stays up-to-date.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-El proyecto utiliza las siguientes tecnologías y bibliotecas:
+The project utilizes the following technologies and libraries:
 
-- **Python:** Lenguaje de programación principal.
-- **Beautiful Soup (bs4):** Biblioteca para el análisis HTML.
-- **Requests:** Utilizado para realizar solicitudes HTTP a la página web.
-- **Pandas:** Herramienta para la manipulación eficiente de datos y la lectura/escritura de archivos CSV.
+- **Python:** Main programming language.
+- **Beautiful Soup (bs4):** Library for HTML analysis.
+- **Requests:** Used for making HTTP requests to the website.
+- **Pandas:** Tool for efficient data manipulation and reading/writing CSV files.
+
+## Preview
+
+![excel](https://github.com/Yohalprz98/Data-Analysis-Web-Scraper-Project/assets/97195731/df8b6f1f-080a-4a3f-8e80-be1ad086f0a6)
+![worldweather](https://github.com/Yohalprz98/Data-Analysis-Web-Scraper-Project/assets/97195731/d18debe5-13b6-40d0-9f20-e98a4e61b407)
+
+
